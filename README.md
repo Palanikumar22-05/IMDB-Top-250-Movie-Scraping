@@ -16,11 +16,11 @@ Once executed, the script:
 
 🧠 Features
 
-✅ Scrapes IMDb’s **Top 250** movies automatically  
+✅ Scrapes IMDb’s Top 250 movies automatically  
 ✅ Works for both classic and new IMDb layouts  
-✅ Exports data to a **CSV** file with timestamp  
-✅ Displays a **Top 15 preview** in the console  
-✅ Built using **Selenium**, **Pandas**, and **WebDriver Manager**
+✅ Exports data to a CSV file with timestamp  
+✅ Displays a Top 15 preview in the console  
+✅ Built using Selenium, Pandas, and WebDriver Manager
 
  🛠️ Tech Stack
 
@@ -43,3 +43,7 @@ Once executed, the script:
 
 pip install -r requirements.txt
 
+ Usage
+
+Run the script:
+python IMDB_Movie_rating.py
